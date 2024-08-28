@@ -1,3 +1,7 @@
+Here's the revised project documentation for your GitHub repository, following your specified requirements and sticking to the provided data and column names. I've formatted it to highlight SQL skills and added a suitable description.
+
+---
+
 # Advanced SQL Use Cases for Car Auction Data Analysis
 
 ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
@@ -18,8 +22,8 @@ The dataset includes auction data from two competitors over several months. It c
 ### Data Columns
 
 - **bidding_period:** The date when the bidding/auction took place, truncated to the 1st day of the month (e.g., 2022-11-01 for November 2022).
-- **brand_name:** The brand of the car (e.g., Honda, BMW), with placeholder names used for this dataset.
-- **model_name:** The model of the car (e.g., City, Civic, Myvi), with placeholder names used for this dataset.
+- **brand_name:** The brand of the car (e.g., Proton, Perodua), with placeholder names used for this dataset.
+- **model_name:** The model of the car (e.g., Saga, X70, Myvi), with placeholder names used for this dataset.
 - **make_year:** The year the car was manufactured.
 - **reserved_price:** The starting price (Reserve Price) at which the auction begins for a given competitor.
 - **winning_price:** The final price (Winning Price) at which the car auction concludes, also known as the Maximum Bidding Price.
@@ -179,3 +183,10 @@ ORDER BY
 | 2022-12-01  | 1700                     |
 
 ---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to adjust the documentation or add more details to fit your specific needs!
